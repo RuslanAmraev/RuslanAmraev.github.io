@@ -1,0 +1,111 @@
+a{
+	color: #000;
+	text-decoration: none;
+}
+
+.massage-types{
+	background-color: #efefef;
+	text-align: center;
+	padding: 30px 0;
+}
+
+.massage-box{
+	padding: 0 150px;
+	justify-content: space-between;
+	display: flex;
+	margin-bottom: 30px;
+}
+
+.massage-item{
+	width: 30%;
+	height: 570px;
+	background-color: #fff;
+	border-radius: 5px;
+	position: relative;
+}
+
+.massage-item p{
+	text-align: left;
+	font-size: 15px;
+}
+
+.massage-item h3{
+	height: 20px;
+	margin-bottom: 40px;
+}
+
+.massage-item span{
+	font-weight: 600;
+}
+
+.container-20{
+	padding: 0 20px;
+}
+
+.massage-button{
+	background-color: #451d59; 
+	color: #fff;
+	border-radius: 5px;
+	height: 40px;
+	width: 200px;
+	border: none;
+	outline: none;
+	cursor: pointer;
+	font-size: 13px;
+	font-weight: 600;
+	position: absolute;
+	left: 20px;
+
+}
+
+.massage-button:hover{
+	background-color: #652a82; 
+}
+
+.massage-info{
+	height: 150px;
+	font-weight: 300;
+}
+
+.massage-icon{
+	background-size: cover; 
+	width: 100%; 
+	height: 40%;
+	border-radius: 5px 5px 0px 0px;
+}
+
+.massage-icon-1{
+	background-image: url(https://static.tildacdn.com/tild3232-3165-4639-b263-313764333865/428_kak-delat-tayski.jpg);
+}
+
+.massage-icon-2{
+	background-image: url(https://static.tildacdn.com/tild3464-6266-4839-b261-663439616661/3.jpg);
+}
+
+.massage-icon-3{
+	background-image: url(https://static.tildacdn.com/tild6339-6433-4133-b036-656264666139/4.jpg);
+}
+
+.massage-icon-4{
+	background-image: url(https://static.tildacdn.com/tild3766-6137-4433-b130-323934646331/6.jpg);
+}
+
+.massage-icon-5{
+	background-image: url(https://static.tildacdn.com/tild3736-6333-4165-a165-343738656531/5.jpg);
+}
+
+.massage-icon-6{
+	background-image: url(https://static.tildacdn.com/tild6161-3262-4131-b764-343461376462/1.jpg);
+}
+
+.massage-icon-7{
+	background-image: url(https://static.tildacdn.com/tild3464-3531-4332-a666-396665363964/1.jpg);
+}
+
+.massage-icon-8{
+	background-image: url(https://static.tildacdn.com/tild3735-3134-4432-b035-383264303639/2.jpg);
+}
+
+.massage-icon-9{
+	background-image: url(https://static.tildacdn.com/tild6430-3861-4232-a363-376334303539/3.jpg);
+}

@@ -1,0 +1,37 @@
+.second-section{
+	padding: 30px 150px;
+	text-align: center;
+	height: 700px;
+	align-items: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	overflow: hidden;
+}
+
+.title-text{
+	font-size: 40px;
+	font-weight: 600;
+}
+
+.block-icon{
+	height: 100px;
+	margin-left: 20px;
+}
+
+.blocks-box{
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 50px;
+	width: 100%;
+}
+
+.block{
+	display: flex;
+	align-items: center;
+	width: 500px;
+}
+
+.block-info{
+	text-align: left;
+}

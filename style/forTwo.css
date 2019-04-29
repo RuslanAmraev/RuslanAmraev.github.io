@@ -1,0 +1,44 @@
+.for-two-section{
+	height: 1000px;
+	background-color: #efefef;
+}
+
+.for-two-box{
+	display: flex;
+	justify-content: space-between;
+}
+
+.for-two-container{
+	text-align: center;
+	padding: 50px 150px;
+	height: 900px;
+}
+
+.for-two-item{
+	width: 45%;
+	margin: 70px 0;
+}
+
+.for-two-item p{
+	font-size: 15px;
+}
+
+.for-two-icon{
+	height: 90px;
+}
+
+.for-two-button{
+	border: none;
+	outline: none;
+	background-color: #451d59;
+	color: #fff;
+	font-weight: 600;
+	font-size: 17px;
+	height: 60px;
+	width: 250px;
+	cursor: pointer;
+}
+
+.for-two-button:hover{
+	background-color: #652a82;
+}

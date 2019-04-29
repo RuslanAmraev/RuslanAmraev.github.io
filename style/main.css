@@ -1,0 +1,98 @@
+.main{
+	display: flex;
+	justify-content: space-between;
+}
+
+.main-bckg{
+	background-image: url(https://static.tildacdn.com/tild3664-3766-4366-b536-383464383962/2a940088e6d9066debdb.jpg);
+	background-repeat: no-repeat;
+	background-size: cover; 
+	position: relative;
+	height: 100vh;
+	background-position-x: -240px;
+}
+.main-text{
+	color: #fff;
+	width: 40%;
+}
+
+.main-text h1{
+	font-size: 50px;
+}
+
+.main-text p{
+	font-size: 25px;
+	color: #fff;
+}
+
+.container-150{
+	padding: 0 150px;
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+}
+
+.main-window{
+	background-color: #fff;
+	height: 390px;
+	width: 300px;
+	padding: 10px 20px;
+}
+
+.main-window p{
+	color: #ab69c9;
+	font-size: 13px;
+}
+
+.window-text{
+	text-align: center;
+}
+
+.window-text h1{
+	font-size: 18px;
+	font-weight: 600;
+	color: #000
+}
+
+.window-text p{
+	font-size: 15px;
+	color: #000;
+}
+
+.window-text span{
+	font-weight: 600;
+}
+
+.window-form{
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	height: 50%;
+}
+
+.window-input{
+	border: 10px solid #f0f0f0;
+	background-color: #f0f0f0;
+	height: 30px;
+	font-size: 18px;
+	outline: none;
+}
+
+.window-button{
+	border: none;
+	background-color: #451d59;
+	color: #fff;
+	height: 40px;
+	font-weight: 600;
+	cursor: pointer;
+}
+
+.window-button:hover{
+	background-color: #652a82;
+}
+
+.filter{
+	height: 100vh;
+	background-color: rgba(0, 0, 0, .4);
+}

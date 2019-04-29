@@ -1,0 +1,41 @@
+.modal{
+	display: none;
+	flex-direction: column;
+	position: fixed;
+	justify-content: center;
+	align-items: center;
+	height: 100%;
+	width: 100%;
+	background-color: rgba(0, 0, 0, .85);
+	z-index: 999;
+}
+
+.call-window{
+	height: 400px;
+	width: 350px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	background-color: #fff;
+}
+
+.call-window input{
+	margin: 20px 0;
+}
+
+.call-window button{
+	margin-top: 20px;
+}
+
+.call-window h3{
+	font-size: 17px;
+}
+
+.modal-close-icon{
+	position: absolute;
+	top: 20px;
+	right: 20px;
+	height: 50px;
+	cursor: pointer;
+}

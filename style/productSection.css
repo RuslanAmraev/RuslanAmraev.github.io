@@ -1,0 +1,25 @@
+.product-section{
+	height: 300px;
+}
+
+.product-box{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	text-align: center;
+	margin-top: auto;
+	margin-bottom: auto;
+	height: 100%;
+}
+
+.product-info{
+	font-size: 30px;
+}
+
+.product-icon{
+	height: 13px;
+}
+
+.product-icon-rotate{
+	transform: rotate(180deg);
+}
